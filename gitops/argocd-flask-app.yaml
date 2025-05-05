@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/AlexKuznetsov7878/cloud_final.git
+    repoURL: https://github.com/yidgar11/devops_expert_last_class.git
     targetRevision: main
     path: helm/flask
   destination:
